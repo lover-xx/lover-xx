@@ -131,7 +131,7 @@ return ' '.$jam.' ❤ Lovely Post Babu ❤
 
 😘 Like Comments Back 😘
 
-😎 Likerxcx.tk 😎
+😎 lover-xx.tk 😎
  '.$hr;
 }
 
